@@ -1,0 +1,33 @@
+C:\Users\fffat\Documents\Visual Studio 2015\Projects\Практика\Dijkstra's Algorithm\bin\Debug\Dijkstra's Algorithm.exe.config
+C:\Users\fffat\Documents\Visual Studio 2015\Projects\Практика\Dijkstra's Algorithm\bin\Debug\Dijkstra's Algorithm.exe
+C:\Users\fffat\Documents\Visual Studio 2015\Projects\Практика\Dijkstra's Algorithm\bin\Debug\Dijkstra's Algorithm.pdb
+C:\Users\fffat\Documents\Visual Studio 2015\Projects\Практика\Dijkstra's Algorithm\obj\Debug\Dijkstra_s_Algorithm.Form1.resources
+C:\Users\fffat\Documents\Visual Studio 2015\Projects\Практика\Dijkstra's Algorithm\obj\Debug\Dijkstra_s_Algorithm.Properties.Resources.resources
+C:\Users\fffat\Documents\Visual Studio 2015\Projects\Практика\Dijkstra's Algorithm\obj\Debug\Dijkstra's Algorithm.csproj.GenerateResource.Cache
+C:\Users\fffat\Documents\Visual Studio 2015\Projects\Практика\Dijkstra's Algorithm\obj\Debug\Dijkstra's Algorithm.exe
+C:\Users\fffat\Documents\Visual Studio 2015\Projects\Практика\Dijkstra's Algorithm\obj\Debug\Dijkstra's Algorithm.pdb
+C:\Users\fffat\Documents\Visual Studio 2015\Projects\Практика\Dijkstra's Algorithm\obj\Debug\Dijkstra's Algorithm.csprojResolveAssemblyReference.cache
+C:\Users\fffat\Documents\Visual Studio 2015\Projects\Практика\Dijkstra's Algorithm\obj\Debug\Dijkstra_s_Algorithm.Form2.resources
+C:\Users\fffat\Documents\Visual Studio 2015\Projects\Практика\Dijkstra's Algorithm\obj\Debug\Dijkstra_s_Algorithm.aboutForm.resources
+C:\Users\student\Desktop\ДМ\Практика\Dijkstra's Algorithm\bin\Debug\Dijkstra's Algorithm.exe.config
+C:\Users\student\Desktop\ДМ\Практика\Dijkstra's Algorithm\obj\Debug\Dijkstra's Algorithm.exe
+C:\Users\student\Desktop\ДМ\Практика\Dijkstra's Algorithm\obj\Debug\Dijkstra's Algorithm.pdb
+C:\Users\student\Desktop\ДМ\Практика\Dijkstra's Algorithm\bin\Debug\Dijkstra's Algorithm.exe
+C:\Users\student\Desktop\ДМ\Практика\Dijkstra's Algorithm\bin\Debug\Dijkstra's Algorithm.pdb
+C:\Users\student\Desktop\ДМ\Практика\Dijkstra's Algorithm\obj\Debug\Dijkstra's Algorithm.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\ДМ\Практика\Dijkstra's Algorithm\obj\Debug\Dijkstra_s_Algorithm.aboutForm.resources
+C:\Users\student\Desktop\ДМ\Практика\Dijkstra's Algorithm\obj\Debug\Dijkstra_s_Algorithm.Form1.resources
+C:\Users\student\Desktop\ДМ\Практика\Dijkstra's Algorithm\obj\Debug\Dijkstra_s_Algorithm.Form2.resources
+C:\Users\student\Desktop\ДМ\Практика\Dijkstra's Algorithm\obj\Debug\Dijkstra_s_Algorithm.Properties.Resources.resources
+C:\Users\student\Desktop\ДМ\Практика\Dijkstra's Algorithm\obj\Debug\Dijkstra's Algorithm.csproj.GenerateResource.Cache
+C:\Users\fffat\Documents\Visual Studio 2015\Projects\Практика (x)\Dijkstra's Algorithm\bin\Debug\Dijkstra's Algorithm.exe.config
+C:\Users\fffat\Documents\Visual Studio 2015\Projects\Практика (x)\Dijkstra's Algorithm\obj\Debug\Dijkstra's Algorithm.exe
+C:\Users\fffat\Documents\Visual Studio 2015\Projects\Практика (x)\Dijkstra's Algorithm\obj\Debug\Dijkstra's Algorithm.pdb
+C:\Users\fffat\Documents\Visual Studio 2015\Projects\Практика (x)\Dijkstra's Algorithm\bin\Debug\Dijkstra's Algorithm.exe
+C:\Users\fffat\Documents\Visual Studio 2015\Projects\Практика (x)\Dijkstra's Algorithm\bin\Debug\Dijkstra's Algorithm.pdb
+C:\Users\fffat\Documents\Visual Studio 2015\Projects\Практика (x)\Dijkstra's Algorithm\obj\Debug\Dijkstra_s_Algorithm.Form1.resources
+C:\Users\fffat\Documents\Visual Studio 2015\Projects\Практика (x)\Dijkstra's Algorithm\obj\Debug\Dijkstra_s_Algorithm.Properties.Resources.resources
+C:\Users\fffat\Documents\Visual Studio 2015\Projects\Практика (x)\Dijkstra's Algorithm\obj\Debug\Dijkstra's Algorithm.csproj.GenerateResource.Cache
+C:\Users\fffat\Documents\Visual Studio 2015\Projects\Практика (x)\Dijkstra's Algorithm\obj\Debug\Dijkstra's Algorithm.csprojResolveAssemblyReference.cache
+C:\Users\fffat\Documents\Visual Studio 2015\Projects\Практика (x)\Dijkstra's Algorithm\obj\Debug\Dijkstra_s_Algorithm.FormHello.resources
+C:\Users\fffat\Documents\Visual Studio 2015\Projects\Практика (x)\Dijkstra's Algorithm\obj\Debug\Dijkstra_s_Algorithm.FormAddWeight.resources
